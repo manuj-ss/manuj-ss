@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manuj-ss
 - 👀 I’m interested in competitive coding and web development.
-- 🌱 I’m currently learning C, C++, Python and Web Development.
+- 🌱 I’m currently learning C++, Java, Python and Web Development.
 - 💞️ I’m looking to collaborate on projects related to web development, etc.
 - 📫 How to reach me: Email- mssharma12072001@gmail.com.
 
